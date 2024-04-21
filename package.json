@@ -1,0 +1,22 @@
+{
+  "name": "next-client-cookie",
+  "version": "1.0.0",
+  "description": "Handling Next cookies for client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ankitprs/next-client-cookie.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ankit Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitprs/next-client-cookie/issues"
+  },
+  "homepage": "https://github.com/ankitprs/next-client-cookie#readme"
+}
